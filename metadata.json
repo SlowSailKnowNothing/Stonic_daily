@@ -1,0 +1,5 @@
+{
+  "name": "Stoic Diary",
+  "description": "A minimalist, local-first Stoic journaling assistant with AI guidance and robust Obsidian integration.",
+  "requestFramePermissions": []
+}
